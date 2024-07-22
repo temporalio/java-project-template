@@ -18,3 +18,5 @@ build
 
 # Intellij
 .idea
+
+target/
